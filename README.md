@@ -1,5 +1,5 @@
 # HeartAttackPredictor
-A machine learning model using Support Vector Machine classification to predict chances of an individual having a heart attack based on features like age, sex, cholestrol, blood pressure, chest pain, heart beat etc.
+A Machine Learning Model using Support Vector Machine classification to predict chances of an Individual having a Heart Attack based on features like Age, Sex, Cholestrol, Blood Pressure, Chest pain, Heartbeat etc.
 
 # Requirements
       1.Numpy
@@ -7,7 +7,7 @@ A machine learning model using Support Vector Machine classification to predict 
       3.Sckitlearn   
 
 # Training Data
-  Data used for training ![heart.csv](https://github.com/programindz/heartattackpredictor/blob/master/heart.csv) from Kaggle
+  Data used for training ![heart.csv](https://github.com/Hercules45/Heart-Attack-Predictor/blob/master/heart.csv) from Kaggle
   
  # Training Features
     1. age	
